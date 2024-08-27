@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Olá, sou Luiz Felippe!
 
-<!--
-**luizfelippe-dev/luizfelippe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor júnior apaixonado por tecnologia e em constante aprendizado. 💻✨
 
-Here are some ideas to get you started:
+🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Atualmente, estou focado em estudar C# e Python.
+
+🌱 Tenho experiência em C#, HTML, CSS, Django, e React.
+
+🌐 Curioso e sempre buscando novas formas de aprimorar minhas habilidades de desenvolvimento.
+
+🛠️ Tecnologias
+Linguagens: C#, Python,JavaScript, HTML5, CSS3
+
+Frameworks: Django, React
+
+💼 Estou em busca de oportunidades para colocar em prática todo o meu conhecimento e aprender ainda mais!
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelippe-dev&show_icons=true&theme=bear&count_private=true"/>
