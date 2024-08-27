@@ -1,3 +1,4 @@
+<img src = "giphy.webp" width = "325px" align = "right">
 👋 Olá, sou Luiz Felippe!
 
 Sou um desenvolvedor júnior apaixonado por tecnologia e em constante aprendizado. 💻✨
