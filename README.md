@@ -5,16 +5,16 @@ Sou um desenvolvedor júnior apaixonado por tecnologia e em constante aprendizad
 
 🚀 Sobre Mim
 
-🔭 Atualmente, estou focado em estudar C# e Python.
+🔭 Atualmente, estou focado em estudar C#, Python e SQL.
 
-🌱 Tenho experiência em C#, HTML, CSS, Django, e React.
+🌱 Tenho experiência em C#, HTML, CSS, Django, e SQL.
 
 🌐 Curioso e sempre buscando novas formas de aprimorar minhas habilidades de desenvolvimento.
 
 🛠️ Tecnologias
-Linguagens: C#, Python,JavaScript, HTML5, CSS3
+Linguagens: C#, Python, JavaScript, SQL, HTML5, CSS3.
 
-Frameworks: Django, React
+Frameworks: Django, React.
 
 💼 Estou em busca de oportunidades para colocar em prática todo o meu conhecimento e aprender ainda mais!
 
@@ -26,6 +26,7 @@ Frameworks: Django, React
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
 </div>
 
 ---
