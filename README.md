@@ -1,22 +1,22 @@
 <img src = "giphy.webp" width = "325px" align = "right">
-👋 Olá, sou Luiz Felippe!
+👋 Hi, I'm Luiz Felippe!
 
-Sou um desenvolvedor júnior apaixonado por tecnologia e em constante aprendizado. 💻✨
+I'm a junior developer passionate about technology and constantly learning. 💻✨
 
-🚀 Sobre Mim
+🚀 About Me
 
-🔭 Atualmente, estou focado em estudar C#, Python e SQL.
+🔭 Currently, I'm focused on studying C#, Python and SQL.
 
-🌱 Tenho experiência em C#, HTML, CSS, Django, e SQL.
+🌱 I have experience in C#, HTML, CSS, Django, e SQL.
 
-🌐 Curioso e sempre buscando novas formas de aprimorar minhas habilidades de desenvolvimento.
+🌐 Curious and always looking for new ways to improve my development skills.
 
-🛠️ Tecnologias
-Linguagens: C#, Python, JavaScript, SQL, HTML5, CSS3.
+🛠️ Technologies
+Languages: C#, Python, JavaScript, SQL, HTML5, CSS3.
 
 Frameworks: Django, React.
 
-💼 Estou em busca de oportunidades para colocar em prática todo o meu conhecimento e aprender ainda mais!
+💼 I'm looking for opportunities to put all my knowledge into practice and learn even more!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
