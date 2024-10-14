@@ -14,7 +14,7 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 🛠️ Technologies
 Languages: C#, Python, JavaScript, SQL, HTML5, CSS3.
 
-Frameworks: Django, React.
+Frameworks: Django, React, NodeJS.
 
 💼 I'm looking for opportunities to put all my knowledge into practice and learn even more!
 
@@ -26,6 +26,7 @@ Frameworks: Django, React.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
 </div>
 
