@@ -5,23 +5,26 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 
 🚀 About Me
 
-🔭 Currently, I'm focused on studying C#, Python and SQL.
+- 💼 I’m currently working on [QualitySistemas](https://www.qualitysistemas.com.br/v2023/)
 
-🌱 I have experience in C#, HTML, CSS, Django, e SQL.
+- 🔭 Currently, I'm focused on studying **Python and SQL (ADVANCED)**.
 
-🌐 Curious and always looking for new ways to improve my development skills.
+- 🌱 I have experience in **C#, HTML, CSS, Django, NodeJS, SQL and Lua**.
 
-🛠️ Technologies
-Languages: C#, Python, JavaScript, SQL, HTML5, CSS3.
+- 🌐 Curious and always looking for new ways to improve my development skills.
 
-Frameworks: Django, React, NodeJS.
+- 🗣️ Languages **PT / ES / EN**
 
-💼 I'm looking for opportunities to put all my knowledge into practice and learn even more!
+- 🛠️ Technologies
+Languages: **C#, Python, JavaScript, SQL, HTML5, CSS3**.
+
+Frameworks: **Django, React, NodeJS**.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua" alt="lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
