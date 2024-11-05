@@ -7,7 +7,7 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 
 - 💼 I’m currently working on [QualitySistemas](https://www.qualitysistemas.com.br/v2023/)
 
-- 🔭 Currently, I'm focused on studying **Python and SQL (ADVANCED)**.
+- 🔭 Currently, I'm focused on studying **JavaScript and SQL (ADVANCED)**.
 
 - 🌱 I have experience in **C#, HTML, CSS, Django, NodeJS, SQL and Lua**.
 
