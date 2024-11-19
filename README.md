@@ -9,16 +9,18 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 
 - 🔭 Currently, I'm focused on studying **JavaScript and SQL (ADVANCED)**.
 
-- 🌱 I have experience in **C#, HTML, CSS, Django, NodeJS, SQL and Lua**.
+- 🌱 I have experience in **HTML5, CSS3, JavaScript, Python, SQL and Lua**.
 
 - 🌐 Curious and always looking for new ways to improve my development skills.
 
 - 🗣️ Languages **PT / ES / EN**
 
 - 🛠️ Technologies
-Languages: **C#, Python, JavaScript, SQL, HTML5, CSS3**.
+Languages: **JavaScript, C#, Python, SQL**.
 
-Frameworks: **Django, React, NodeJS**.
+Frameworks: **React, NodeJS, .Net, Django, Flask**.
+
+Database: **PostgreSQL, MySQL, SQLite, MongoDB**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
