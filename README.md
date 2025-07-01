@@ -5,7 +5,7 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 
 🚀 About Me
 
-- 💼 I’m currently working on [QualitySistemas](https://www.qualitysistemas.com.br/v2023/)
+- 💼 I’m currently working on [STAF Sistemas](https://www.betha.com.br/)
 
 - 🔭 Currently, I'm focused on studying **Java and SQL (ADVANCED)**.
 
