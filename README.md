@@ -7,16 +7,16 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 
 - 💼 I’m currently working on [QualitySistemas](https://www.qualitysistemas.com.br/v2023/)
 
-- 🔭 Currently, I'm focused on studying **JavaScript and SQL (ADVANCED)**.
+- 🔭 Currently, I'm focused on studying **Java and SQL (ADVANCED)**.
 
-- 🌱 I have experience in **HTML5, CSS3, JavaScript, Python, SQL and Lua**.
+- 🌱 I have experience in **HTML5, CSS3, JavaScript, Python, Java, Groovy and SQL**.
 
 - 🌐 Curious and always looking for new ways to improve my development skills.
 
 - 🗣️ Languages **PT / ES / EN**
 
 - 🛠️ Technologies
-Languages: **JavaScript, C#, Python, SQL**.
+Languages: **JavaScript, C#, Python, Java, Groovy, SQL**.
 
 Frameworks: **React, NodeJS, .Net, Django, Flask**.
 
