@@ -7,7 +7,7 @@ I'm a junior developer passionate about technology and constantly learning. 💻
 
 - 💼 I’m currently working on [STAF Sistemas](https://www.betha.com.br/)
 
-- 🔭 Currently, I'm focused on studying **Java and SQL (ADVANCED)**.
+- 🔭 Currently, I'm focused on studying **Java, Groovy and SQL (ADVANCED)**.
 
 - 🌱 I have experience in **HTML5, CSS3, JavaScript, Python, Java, Groovy and SQL**.
 
